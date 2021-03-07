@@ -1,7 +1,7 @@
 :root {
-	--primary: #FA3C00;
-	--secondary:  #FFffff;
-	--background: #ffffff;
+	--primary: #006666;
+	--secondary:  #cececd;
+	--background: #cececd;
 }
 
 *, *:before, *:after {
@@ -12,8 +12,8 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: 'PanamaBold', serif;
-	color: #fa3c00;
+	font-family: yu-mincho-pr6,sans-serif;
+	color: #006666;
 	text-align: center;
 }
 
@@ -39,7 +39,7 @@ code {
 a[href],
 a[href]:visited {
 	color: var(--primary);
-	font-family: 'PanamaBold', serif;
+	font-family: yu-mincho-pr6,sans-serif;
 }
 
 a[href]:not(:hover) {
@@ -124,15 +124,15 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
-	font-family: 'PanamaItalic',serif;
+	background-color: none;
+	font-family: yu-mincho-pr6,sans-serif;
 }
 
 /* Posts List */
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #fa3c00;
+	border-bottom: 1px solid #006666;
 	border-bottom: 1px solid var(--secondary);
 }
 
@@ -158,7 +158,7 @@ a[rel="tag"]:visited {
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
-	text-decoration-color: #fa3c00;
+	text-decoration-color: #006666;
 }
 
 a[rel="tag"]:hover {
@@ -188,17 +188,17 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: 'PanamaItalic', serif;
+	font-family: yu-mincho-pr6,sans-serif;
 }
 
 input,
 textarea {
-	border: 1px solid  #fa3c00;
+	border: 1px solid  #006666;
 }
 
 input,
 select {
-	border: 1px solid  #fa3c00;
+	border: 1px solid  #006666;
 }
 
 input,
@@ -208,7 +208,7 @@ button {
 	padding: 1em;
 	margin-bottom: 1em;
 	  font-size: 1rem;
-	  font-family: 'PanamaItalic', serif;
+	  font-family: yu-mincho-pr6,sans-serif;
   }
 
 button {
@@ -236,4 +236,9 @@ button {
 	src: url('/static/fonts/PanamaMonospaceItalic.woff') format('woff');
 	font-weight: 400;
 	font-display: swap;
+}
+@font-face {
+	font-family: yu-mincho-pr6,sans-serif;
+	font-weight: 400;
+	font-style: normal;
 }
