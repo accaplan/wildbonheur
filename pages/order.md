@@ -7,7 +7,7 @@ date: 2018-01-01
 permalink: /vorbestellen/index.html
 eleventyNavigation:
   key: Vorbestellen
-  order: 1
+  order: 0
 ---
 Bitte füllen Sie das untenstehende Formular aus und definieren Sie Ihr Menu. Bei Abholung erfolgt die Bezahlung vor Ort.
 

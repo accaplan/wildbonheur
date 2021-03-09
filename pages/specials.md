@@ -5,9 +5,7 @@ metaDescription: Specials
 section: specials
 date: 2018-01-01
 permalink: /specials/index.html
-eleventyNavigation:
-  key: Specials
-  order: 3
+
 ---
 Vietnamesische Esskultur ist ja noch so viel mehr als «nur» Hauptmahlzeiten!
 Darum gibts ab 16 Uhr im Café du Bonheur spezielle Snacks:

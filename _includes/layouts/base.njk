@@ -5,13 +5,13 @@
 
 	<body>
 
-		<header>
-			{% include "components/nav.njk" %}
-		</header>
-
 		<main>
 			{{ layoutContent | safe }}
 		</main>
+
+		<header>
+			{% include "components/nav.njk" %}
+		</header>
 
 		{% include "components/footer.njk" %}
 

@@ -4,9 +4,7 @@ title: ÜBER
 metaDescription: This is an about page
 date: 2017-01-01T00:00:00.000Z
 permalink: /ueber/index.html
-eleventyNavigation:
-  key: Über
-  order: 1
+
 ---
 Mili’s Supperclub  is an art project by Thi My Lien Nguyen, creating a space for sharing and exchanging. Bringing you art and design by people of Asian heritage closer.
 
@@ -14,5 +12,4 @@ My Lien, Gründerin und Initiantin von Mili’s Supperclub, bringt dem Publikum 
 
 
 Find out more at <a style="font-family:PanamaItalic, serif;" href="https://www.milissupperclub.ch">Mili's Supperclub</a>
-
 
