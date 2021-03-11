@@ -9,7 +9,7 @@ eleventyNavigation:
   key: Vorbestellen
   order: 0
 ---
-Bitte füllen Sie das untenstehende Formular aus und definieren Sie Ihr Menu. Bei Abholung erfolgt die Bezahlung vor Ort.
+Bitte füllen sie das untenstehende Formular aus. Bei Abholung vor Ort erfolgt die Bezahlung vor Ort.
 
 Abholung:
 Fleisch CHF 59.00

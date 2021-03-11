@@ -8,3 +8,9 @@ permalink: /
   <source type="image/png" srcset="/static/img/Bonheur_Fenster_21-01.svg 2000w, /static/img/Bonheur_Fenster_21-01.svg 2400w, /static/img/Bonheur_Fenster_21-01.svg 3000w">
   <img src="/static/img/Bonheur_Fenster_21-01.svg" width="1800" height="3000" alt="Menu" loading="lazy" decoding="async">
 </picture>
+
+Lauren hat die klassische Bentōbox neu definiert. Die Mezseki. Vegan, natürlich.
+
+Jade hat mal wieder passend dazu einen Drink kreiert.
+
+Das ist alles.
